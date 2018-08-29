@@ -1,3 +1,3 @@
 # hello-world
-tutorial
+tutorial \n
 lerning how to use branches
